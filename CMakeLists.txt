@@ -11,6 +11,8 @@ add_executable(Desafio2 main.cpp
     Lista.h
     Usuario.h
     Usuario.cpp
+    Cadena.h
+    Cadena.cpp
 
 )
 
