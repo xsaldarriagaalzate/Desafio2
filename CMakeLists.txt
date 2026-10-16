@@ -17,10 +17,7 @@ add_executable(Desafio2 main.cpp
     Foto.cpp
     Album.h
     Album.cpp
-    Fecha.h
-    Fecha.cpp
-    Mensaje.h
-    Mensaje.cpp
+
 )
 
 include(GNUInstallDirs)
