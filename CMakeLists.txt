@@ -13,6 +13,10 @@ add_executable(Desafio2 main.cpp
     Usuario.cpp
     Cadena.h
     Cadena.cpp
+    Foto.h
+    Foto.cpp
+    Album.h
+    Album.cpp
 
 )
 
