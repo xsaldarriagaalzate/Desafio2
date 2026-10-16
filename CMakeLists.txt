@@ -13,6 +13,10 @@ add_executable(Desafio2 main.cpp
     Usuario.cpp
     Cadena.h
     Cadena.cpp
+    Fecha.h
+    Fecha.cpp
+    Mensaje.h
+    Mensaje.cpp
 
 )
 
